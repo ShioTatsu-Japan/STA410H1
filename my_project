@@ -1,0 +1,6 @@
+my_project/
+  ├─ my_package/
+  │    ├─ __init__.py
+  │    ├─ final_project.py
+  │    ├─ setup.py
+  └─ STA410H1_Final_Project.ipynb
